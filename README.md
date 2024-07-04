@@ -18,7 +18,7 @@ While in game :
 
 Instructions to run Engine_only
 
-1.) you do not need wsl and make sure to have "make" download on windows
+1.) You do not need wsl and make sure to have "make" download on windows as well as C++ compiler 
 
 2.) Navigate to parent folder w/ terminal of choice 
 
